@@ -1,10 +1,15 @@
 <?
-class SomeСlass {
-    function __construct() {
-        
-    }
-    function sc_test1() {
-        
-    }
+
+class SomeСlass 
+{
+	function __construct() 
+	{ // 1
+		
+	}
+
+	function sc_test1() 
+	{ // 2
+		
+	}
 }
 ?>
