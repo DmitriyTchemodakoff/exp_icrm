@@ -1,5 +1,5 @@
 <?
-class app {
+class SomeСlass {
     function __construct() {
         
     }
